@@ -149,17 +149,3 @@ JOIN Stations s ON t.source_station = s.station_name OR t.destination_station = 
 GROUP BY s.station_name 
 ORDER BY Total_Revenue DESC;
 ```
-
----
-
-## **Conclusion**
-
-These SQL questions comprehensively cover:
-
-✅ Data retrieval & filtering  
-✅ Aggregations & grouping  
-✅ Joins & subqueries  
-✅ Window functions & ranking  
-✅ Performance-based analysis  
-
-Would you like sample solutions or optimized queries for large datasets? 🚀
