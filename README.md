@@ -1,5 +1,7 @@
 # Indian Railway Database Management System
 
+I created a comprehensive Indian railway dataset using Python, leveraging libraries such as pandas, random, and faker. The dataset includes five main tables: Trains, Stations, Passengers, Bookings, and Tickets. To ensure authenticity, I used the Faker library with the en_IN locale to generate realistic Indian passenger names and phone numbers. The dataset features 50 unique trains, 20 major Indian railway stations, 5,000 passengers, 10,000 bookings, and 20,000 tickets. Each table was carefully designed with relevant attributes, such as train types, seat capacities, booking statuses, and fare amounts. The data was then exported to CSV files for easy access and analysis. This dataset is ideal for simulating railway management systems, analyzing booking trends, or building predictive models. The entire process was automated using Python scripts, ensuring reproducibility and scalability. You can find the code and dataset on my GitHub repository for further exploration and use.
+
 ## 📌 SQL Questions for Indian Railway Database System
 
 ---
