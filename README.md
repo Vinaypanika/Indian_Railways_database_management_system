@@ -192,5 +192,16 @@ If you have any questions or want to connect, feel free to reach out:
 - 🌐 Portfolio: (https://sites.google.com/view/vinaykumarpanika/home)
 - 📞 Mobile: +91 7415552944
 
+## 📞 Contact
+
+If you have any questions or want to connect, feel free to reach out:
+
+- 📧 Email: [vinaypanika@gmail.com](mailto:vinaypanika@gmail.com)
+- 💼 LinkedIn: [Vinay Kumar Panika](https://www.linkedin.com/in/vinaykumarpanika)
+- 📂 GitHub: [VinayPanika](https://github.com/Vinaypanika)
+- 🌐 Portfolio: [Visit My Portfolio](https://sites.google.com/view/vinaykumarpanika/home)
+- 📞 Mobile: [+91 7415552944](tel:+917415552944)
+
+
 
 
