@@ -187,9 +187,9 @@ order by count(b.booking_id) desc ;
 If you have any questions or want to connect, feel free to reach out:
 
 - 📧 Email: vinaypanika@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/vinaykumarpanika)
-- 📂 GitHub: [Your GitHub](https://github.com/Vinaypanika)
-- 🌐 Portfolio: [Your Portfolio](https://sites.google.com/view/vinaykumarpanika/home)
+- 💼 LinkedIn: (www.linkedin.com/in/vinaykumarpanika)
+- 📂 GitHub: (https://github.com/Vinaypanika)
+- 🌐 Portfolio: (https://sites.google.com/view/vinaykumarpanika/home)
 - 📞 Mobile: +91 7415552944
 
 
